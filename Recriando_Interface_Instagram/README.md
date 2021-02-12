@@ -5,10 +5,9 @@
 
 <p align="center">
  <a href="#-sobre">Sobre</a> |
- <a href="#-requisitos">Requisitos</a> | 
  <a href="#-tecnologias">Tecnologias</a> | 
- <a href="#%EF%B8%8F-como-executar">Como executar</a> | 
- <a href="#-licença">Licença</a> | 
+ <a href="#-como-executar">Como executar</a> | 
+ <a href="#-licença">Licença</a>
 </p>
 
 ## 🚀 Sobre
