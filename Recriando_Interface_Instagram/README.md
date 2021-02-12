@@ -3,6 +3,8 @@
 <p align="center">🚀 Desafio proposto pelo bootcamp da Digital Innovaion One</p>
 <h1 align="center"><img alt="Forks" src='https://img.shields.io/github/forks/claudianopl/DIO-Avane-Angular'> <img alt="Starts" src='https://img.shields.io/github/stars/claudianopl/DIO-Avane-Angular'> <img alt="License" src='https://img.shields.io/github/license/claudianopl/DIO-Avane-Angular'></h1>
 
+<h1 align="center"><img alt="Instagram" title="#Instagram" src=".github/screen.png" style="width:100%;"/></h1>
+
 <p align="center">
  <a href="#-sobre">Sobre</a> |
  <a href="#-tecnologias">Tecnologias</a> | 
