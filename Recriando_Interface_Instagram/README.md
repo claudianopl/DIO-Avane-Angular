@@ -33,7 +33,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 $ git clone https://github.com/claudianopl/DIO-Avane-Angular
 
 # Entrar no diretório
-$ cd Recriando_Interface_Instagram
+$ cd DIO-Avane-Angular/Recriando_Interface_Instagram
 
 # Abrindo o projeto
 $ code.

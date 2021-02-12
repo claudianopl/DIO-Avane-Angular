@@ -28,10 +28,10 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 ### 🎲 Rodando aplicação
 ```bash 
 # clone do repositório
-$ git clone https://github.com/claudianopl/Interface-Netflix
+$ git clone https://github.com/claudianopl/DIO-Avane-Angular
 
 # Entrar no diretório
-$ cd Interface-Netflix
+$ cd DIO-Avane-Angular/Recriando_Interface_Netlifx
 
 # Abrindo o projeto
 $ code.
